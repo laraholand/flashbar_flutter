@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flashbar_flutter/flashbar.dart';
+import 'package:flashbar_flutter/flashbar_flutter.dart';
 
 void main() {
   runApp(const MyApp());
