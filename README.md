@@ -30,7 +30,7 @@ If this were a package on pub.dev, you would add it to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flashbar_flutter: ^1.0.0 # Replace with the actual version
+  flashbar_flutter: ^1.0.0
 ```
 
 And then run:
