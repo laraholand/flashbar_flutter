@@ -47,7 +47,7 @@ The primary way to display a flashbar is by calling the `showFlashbar` function.
 Here's a simple example of a flashbar that appears at the top of the screen and disappears after 3 seconds.
 
 ```dart
-import 'package:flashbar_flutter/flashbar.dart';
+import 'package:flashbar_flutter/flashbar_flutter.dart';
 
 ElevatedButton(
   child: const Text('Show Top Flashbar'),
